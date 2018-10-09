@@ -1,5 +1,9 @@
 # IEP-to-EDI-Publishing
-The IEP Data Utility Working Group (DUWG) is making large strides towards OpenScience! The DUWG has decided to work with Environmental Data Initiative (EDI) to serve as the home for IEP datasets (see the first two IEP data sets at https://portal.edirepository.org/nis/simpleSearch). EDI is an online data respository and portal that supports data publishing and receiving a Digital Object Identifiers (DOI) for citations and data tracking. Each data package on EDI is has associated metadata held to high Ecological Metadata (EML) standards, with modifications and additions from the IEP DUWG subcommittees. EDI also has quality check reports that must be evaluated before the publication of a data package. 
+The IEP Data Utility Working Group (DUWG) is making large strides towards OpenScience! The DUWG has decided to work with Environmental Data Initiative (EDI) to serve as the home for IEP datasets (see the first two published IEP datasets at https://portal.edirepository.org/nis/simpleSearch). 
+
+EDI is an online data respository and portal that supports data publishing and receiving a Digital Object Identifiers (DOI) for citations and data tracking. Open Science and data publishing is a great tool for synthesis science, and for all the people invovled in collecting field and lab data to get recognition. 
+Each data package on EDI is has associated metadata held to high Ecological Metadata (EML) standards, with modifications and additions from the IEP DUWG subcommittees. 
+EDI also has quality check reports that must be evaluated before the publication of a data package. 
 
 The attached resources provide instructions for IEP data managers and PIs on how to publish datasets to the Environmental Data Initiative (EDI) repository. 
 
