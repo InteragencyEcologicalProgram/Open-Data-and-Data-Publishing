@@ -7,7 +7,8 @@ EDI also has quality check reports that must be evaluated before the publication
 
 The attached resources provide instructions for IEP data managers and PIs on how to publish datasets to the Environmental Data Initiative (EDI) repository. 
 
-Instructions include:
+
+INSTRUCTIONAL DOCUMENTS:
 
 1.) A blank metadata template  (see also the Yolo Bypass Fish Monitoring Programs example metadata document)
 
@@ -18,7 +19,9 @@ Instructions include:
 4.) Once you're done creating your metadata in EML, use the Staging and Production instructions to publish your IEP dataset.
 
 
-Additional Resources:
+
+
+ADDITIONAL RESOURCES:
 
 Environmental Data Initiative (https://environmentaldatainitiative.org/).
 
@@ -27,6 +30,7 @@ GoogleDatasets (https://toolbox.google.com/datasetsearch).
 IEP: Yolo Bypass Fish Monitoring Program Data Package, CDWR (https://doi.org/10.6073/pasta/0ab359bec7b752c1f68621f5e1768eb0).
 
 IEP: Delta Juvenile Fish Monitring Program, USFWS (https://doi.org/10.6073/pasta/7f84f633c4aafaa09a742ea253106418.)
+
 
 
 IEP information managers, please feel free to contact me qith questions. Brittany.e.davis@water.ca.gov.
