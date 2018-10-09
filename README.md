@@ -14,9 +14,11 @@ INSTRUCTIONAL DOCUMENTS:
 
 2.) Step-wise instructions for generating a machine readable metadata document (.xml) in EMLassemblyline in R. (You will want to be sure to download R and R-studio).
 
-3.) A powerpoint presentation is provided showing examples of each EMLassemblyline step using the Yolo Bypass Fish data.
+3.) R code for EMLassemblyline, example from Yolo Bypass Fish Monitoring Program (titled "my_workflow_YBFMP").
 
-4.) Once you're done creating your metadata in EML, use the Staging and Production instructions to publish your IEP dataset.
+4.) A powerpoint presentation is provided showing examples of each EMLassemblyline step using the Yolo Bypass Fish data.
+
+5.) Once you're done creating your metadata in EML, use the Staging and Production instructions to publish your IEP dataset.
 
 
 
