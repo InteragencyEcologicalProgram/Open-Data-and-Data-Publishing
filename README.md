@@ -1,8 +1,7 @@
 # Open-Data-and-Data-Publishing
 Welcome! This is the place with resources to start your Open Data journey and publish datasets to EDI. 
 
-<img src="https://github.com/InteragencyEcologicalProgram/Open-Data-and-Data-Publishing/blob/master/Resources/Baerwald%20et%20al.%202020.fig1.jpg" width="500">
-Steps in the Open Data Framework from Baerwald et al. 2020
+Open Data Framework<img src="https://github.com/InteragencyEcologicalProgram/Open-Data-and-Data-Publishing/blob/master/Resources/Baerwald%20et%20al.%202020.fig1.jpg" width="500">
 
 If you're still getting familiar with the Open Data Framework we recommend first checking out:
 1. [Open Data Framework for the San Francisco Estuary by Baerwald et al. 2020](https://doi.org/10.15447/sfews.2020v18iss2art1)
