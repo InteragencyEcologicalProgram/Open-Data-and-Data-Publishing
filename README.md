@@ -1,7 +1,6 @@
 # Open-Data-and-Data-Publishing
-Instructions for IEP Information Managers and PIs for publishing datasets to EDI.
+Welcome! This is the place with resources to start your Open Data journey and publish datasets to EDI. 
 
-Welecome! This is the place with resources to start your Open Data journey. 
 <img src="https://github.com/InteragencyEcologicalProgram/Open-Data-and-Data-Publishing/blob/master/Resources/Baerwald%20et%20al.%202020.fig1.jpg" width="1000">
 Steps in the Open Data Framework from Baerwald et al. 2020
 
