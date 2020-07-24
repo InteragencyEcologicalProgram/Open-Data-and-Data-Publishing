@@ -8,7 +8,7 @@ If you're still getting familiar with the Open Data Framework we recommend first
 1. A [PDF of slides from the Open Data Workshop](https://github.com/InteragencyEcologicalProgram/Open-Data-and-Data-Publishing/blob/master/Resources/OpenScienceWorkshop_IEP_2019.pdf)
 1. A [PDF of slides from the Data Management Showcase](https://github.com/InteragencyEcologicalProgram/Open-Data-and-Data-Publishing/blob/master/Resources/Data%20Management%20Showcase%20Slides.pdf) and live recording [2019 Data Management Showcase](https://www.youtube.com/watch?v=rgGFogjhePc)
 
-Templates to get you started
+Templates and Instructions to get you started:
 1. [Data Management Plan Template](https://github.com/InteragencyEcologicalProgram/Open-Data-and-Data-Publishing/blob/master/Resources/2019%20DMP%20Template%20v2.pdf) and [DMP Instructions](https://github.com/InteragencyEcologicalProgram/Open-Data-and-Data-Publishing/blob/master/Resources/DMP%20Template%20Instructions%20Public%20(4).docx)
 1. [Metadata Template with Instructions](https://github.com/InteragencyEcologicalProgram/Open-Data-and-Data-Publishing/blob/master/Resources/IEP%20EDI%20Metadata%20Template%202020.docx)
 1.  [Do-It-Yourself Data Publishing with EDI through R](https://github.com/InteragencyEcologicalProgram/IEP-to-EDI-Publishing)
