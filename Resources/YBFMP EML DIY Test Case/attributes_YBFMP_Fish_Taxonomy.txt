@@ -1,0 +1,10 @@
+attributeName	attributeDefinition	class	unit	dateTimeFormatString	missingValueCode	missingValueCodeExplanation
+OrganismCode	A 1 to 4 letter character unique to each species	character				
+CommonName	Common name used for species	character				
+Native	Indicator if the species is native or invasive in the San Francisco Estuary	categorical				
+Phylum	Taxonomic Phylum	character			NA	unknown identification or not applicable
+Class	Taxonomic Class	character			NA	unknown identification or not applicable
+Order	Taxonomic Order	character			NA	unknown identification or not applicable
+Family	Taxonomic Family	character			NA	unknown identification or not applicable
+Genus	Taxonomic Genus	character			NA	unknown identification or not applicable
+Species	Taxonomic Species	character			NA	unknown identification or not applicable

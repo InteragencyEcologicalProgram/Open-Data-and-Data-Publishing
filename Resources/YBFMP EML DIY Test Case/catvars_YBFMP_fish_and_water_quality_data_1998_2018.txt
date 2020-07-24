@@ -1,0 +1,63 @@
+attributeName	code	definition
+StationCode	STTD	"Screw Trap in Toe Drain, below the Lisbon Weir, in between BL5 and BL6"
+StationCode	FW1	Fremont Weir
+StationCode	CCS7	Cache Creek Sink site 7
+StationCode	SB	Sacramento Bypass
+StationCode	BL4	Below Lisbon Weir site 4  in Toe Drain
+StationCode	BL3	Below Lisbon Weir site 3 in Toe Drain
+StationCode	AL4	Above Lisbon Weir site 4 in Toe Drain
+StationCode	BL1	Below Lisbon Weir site 1 in Toe Drain
+StationCode	LIHFS	Lisbon Weir High Flow Site South
+StationCode	AL1	Above Lisbon Weir site 1 in Toe Drain
+StationCode	BL5	Below Lisbon Weir site 5 in Toe Drain
+StationCode	AL3	Above Lisbon Weir site 3 in Toe Drain
+StationCode	BL2	Below Lisbon Weir site 2 in Toe Drain
+StationCode	PCS	"Putah Creek Sink location of fyke trap in Toe Drain, below Lisbon Weir, near BL1"
+StationCode	LIHF	Lisbon Weir High Flow Site
+StationCode	AL2	Above Lisbon Weir site 2 in Toe Drain
+StationCode	YBI80	Yolo Bypass west side near highway I80 an Inundation site
+StationCode	BL6	Below Lisbon Weir site 6 in Toe Drain
+StationCode	YB	Yolo Basin Pond
+StationCode	LI	Lisbon Weir in Toe Drain
+StationCode	Alt_Fyke	Alternate fyke trap loction
+MethodCode	RSTR	rotary screw trap
+MethodCode	BSEIN	beach seine
+MethodCode	FKTR	fyke trap
+MethodCode	FNET	fyke net
+MethodCode	PSEIN	purse seine
+GearID	RSTR8	8 ft cone screw trap
+GearID	SEIN50	50 ft seine net
+GearID	FKTR	fyke trap
+GearID	SEIN30	30 ft seine net
+GearID	FKNT	fyke net
+GearID	PSEIN100	100 ft purse seine net
+GearID	SEINENCL	seine enclosure
+GearID	RSTR5	5 ft cone screw trap
+GearID	SEINCOVE	seine cove set
+GearID	SEIN100	100 ft seine net
+Race	F	Fall run
+Race	NP	Not provided
+Race	S	Spring run
+Race	W	Winter run
+Race	LF	Late Fall run
+Race	U	Unknown run
+StageCode	NP	Not provided
+StageCode	CHN_S	salmon Smolt
+StageCode	CHN_X	salmon Transitional
+StageCode	CHN_P	salmon Parr
+Dead	No	Fish alive at time of catch
+Dead	Yes	Fish dead at time of sample
+WeatherCode	CLD	Cloudy overcast
+WeatherCode	RAN	Rain
+WeatherCode	CLR	Clear
+WeatherCode	FOG	Fog
+WeatherCode	NA	Not recorded
+WeatherCode	NIT	Night
+SubstrateCode	NA	Not recorded
+SubstrateCode	GR	Gravel or on a boat ramp
+SubstrateCode	MD	Mud
+SubstrateCode	VG	Vegitation
+SubstrateCode	PV	Pavement
+SubstrateCode	SN	Sand
+SubstrateCode	MD/VG	Mud and Vegitation
+SubstrateCode	MD/GR	Mud and Gravel

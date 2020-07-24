@@ -1,0 +1,24 @@
+keyword	keywordThesaurus
+aquatic ecosystems	LTER controlled vocabulary
+ecology	LTER controlled vocabulary
+estuaries	LTER controlled vocabulary
+rivers	LTER controlled vocabulary
+floodplain	LTER controlled vocabulary
+fishes	LTER controlled vocabulary
+abundance	LTER controlled vocabulary
+endangered species	LTER controlled vocabulary
+invasive species	LTER controlled vocabulary
+screw trap	
+fyke	
+beach seine	
+water quality	
+temperature	
+turbidity	
+Interagency Ecological Program for the San Francisco Bay Delta Estuary	
+California Department of Water Resources	
+Yolo Bypass	
+tidal slough	
+Chinook salmon	
+Delta Smelt	
+Sacramento Splittail	
+sturgeon	

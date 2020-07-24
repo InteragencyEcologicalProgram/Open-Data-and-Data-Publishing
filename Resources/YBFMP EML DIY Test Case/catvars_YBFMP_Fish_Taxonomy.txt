@@ -1,0 +1,4 @@
+attributeName	code	definition
+Native	N	Native species to the San Francisco Estuary
+Native	I	Nonnative invasive species to the San Francisco Estuary
+Native	NA	Unknown species

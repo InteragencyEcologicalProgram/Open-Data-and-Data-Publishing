@@ -1,0 +1,27 @@
+attributeName	attributeDefinition	class	unit	dateTimeFormatString	missingValueCode	missingValueCodeExplanation
+SampleDate	Date of sample	Date		MM/DD/YYYY		
+SampleTime	Time of sample	Date		hh:mm:ss		
+StationCode	Sampling locations in the Yolo Bypass.	categorical				
+MethodCode	"Sampling collection method including a fyke trap, screw trap, seines."	categorical				
+GearID	Gear used for sampling method	categorical				
+ID_CommonName	Fish species catch with genetic identifications incorporated	character				
+GeneticallyConfirmed	Indicator if the species was genetically identified. Only Osmerids are currently correct for with genetic identifications	character				
+GeneticID	Genetic identification of Osmerids	character			NA	No genetics done or unknown
+Field_ID_CommonName	Original identification of fish species in the field. Not corrected for with genetics.	character				
+ForkLength	Length of sampled fish measured from the point of the mouth to the fork of the caudal fin	numeric	millimeter		NA	Fork Length of the fish was not taken
+Count	Number of fish sampled	numeric	dimensionless			
+Race	Estimated race of chinook salmon using the length to date guide	categorical			NP	Only chinook salmon are assigned Race
+StageCode	Life stage designation of chinook salmon	categorical			NP	Only chinook salmon are assigned a StageCode
+Dead	Recording if fish was dead at time of catch	categorical				
+GearConditionCode	Condition of gear during sample such as seine twisted or trap not spinning due to debris	numeric	dimensionless		NA	No condition code assigned or not applicable
+WeatherCode	"Weather at time of sample such as clear or direct sunlight, rain, cloudy, night, fog"	categorical			NA	Weather data not recorded
+WaterTemperature	Temperature of water	numeric	celsius		NA	Sample not recorded or collected
+Secchi	Secchi depth sample collected at traps or seine sites	numeric	meter		NA	Sample not recorded or collected
+Conductivity	Electrical conductivity of water 	numeric	microSeimenPerCentimeter		NA	Sample not recorded or collected
+SpCnd	Specific conductivity of water 	numeric	microSeimenPerCentimeter		NA	Sample not recorded or collected
+DO	Dissolved oxygen concentration 	numeric	milligramsPerLiter		NA	Sample not recorded or collected
+pH	Total pH of water 	numeric	dimensionless		NA	Sample not recorded or collected
+Turbidity	Turbidity of water 	numeric	nephelometricTurbidityUnit		NA	Sample not recorded or collected
+SubstrateCode	Substrate at beach seine site	categorical			NA	Sample not recorded or collected
+Tide	Tide at sample	character			NA	Sample not recorded or collected
+VolumeSeined	Calculated volume of water seined using the width (extension out from shore) multiplied by the depth of water (average from two ends) multiplied by the length (distance seined). Volume seined can be used to calculate the catch per unit effort (CPUE)	numeric	cubicMeter		NA	"Value applicable only to seine methods, if seine value missing sample not recorded or collected"

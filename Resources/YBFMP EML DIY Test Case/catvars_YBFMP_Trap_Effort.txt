@@ -1,0 +1,3 @@
+attributeName	code	definition
+MethodCode	FKTR	Fyke trap
+MethodCode	RSTR	Rotary screw trap

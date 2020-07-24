@@ -1,0 +1,14 @@
+givenName	middleInitial	surName	organizationName	electronicMailAddress	userId	role	projectTitle	fundingAgency	fundingNumber
+		Interagency Ecological Program (IEP)				creator			
+Brian Schreier		Yolo Bypass Fish Monitoring Program Supervisor	California Department of Water Resources	Brian.Schreier@water.ca.gov		contact			
+Brittany Davis		Data Manager	California Department of Water Resources	Brittany.e.Davis@water.ca.gov		contact			
+Brian		Schreier	California Department of Water Resources	Brian.Schreier@water.ca.gov	0000-0002-5075-3946	creator	Yolo Bypass Fish Monitoring Program		
+Brittany		Davis	California Department of Water Resources	Brittany.e.Davis@water.ca.gov	0000-0003-3752-1830	creator	Yolo Bypass Fish Monitoring Program		
+Naoaki		Ikemiyagi	California Department of Water Resources			creator	Yolo Bypass Fish Monitoring Program		
+Jared		Frantzich	California Department of Water Resources			associate	Yolo Bypass Fish Monitoring Program		
+Ted		Sommer	California Department of Water Resources			associate	Yolo Bypass Fish Monitoring Program		
+Louise		Conrad	California Department of Water Resources			associate	Yolo Bypass Fish Monitoring Program		
+Lynn		Takata	California Department of Water Resources			associate	Yolo Bypass Fish Monitoring Program		
+Nicole		Aha	California Department of Water Resources			associate	Yolo Bypass Fish Monitoring Program		
+Mallory		Bedwell	California Department of Water Resources			associate	Yolo Bypass Fish Monitoring Program		
+Pascale		Goertler	California Department of Water Resources			associate	Yolo Bypass Fish Monitoring Program		

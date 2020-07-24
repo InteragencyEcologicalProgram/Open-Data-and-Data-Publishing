@@ -1,0 +1,5 @@
+attributeName	attributeDefinition	class	unit	dateTimeFormatString	missingValueCode	missingValueCodeExplanation
+MethodCode	"A specific type of sampling collection method including a fyke trap, screw trap, beach seine, or water quality"	categorical				
+StationCode	A specific location unique to the Yolo Bypass Monitoring Program at which fish and water quality samples was collected	categorical				
+LatitudeLocation	Latitude of sample location	numeric	degree			
+LongitudeLocation	Longitude of sample location	numeric	degree			

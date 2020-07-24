@@ -1,0 +1,6 @@
+attributeName	attributeDefinition	class	unit	dateTimeFormatString	missingValueCode	missingValueCodeExplanation
+MethodCode	Type of trap fyke or screw trap	categorical				
+Year	Calendar year	character				
+Month	Calendar month	character				
+OperationTimeHRS	Hours the trap was set or hours fished	numeric	hour			
+Comments	Notes about environmental or physical circumstances that may have altered the hours the trap could be fished	character				
