@@ -17,5 +17,7 @@ Templates and Instructions to get you started:
 
 There's even more information in our [Resources Folder](https://github.com/InteragencyEcologicalProgram/Open-Data-and-Data-Publishing/tree/master/Resources).
 
+
 If you have any questions regarding data publishing, or need help publishing a dataset, please reach out to the DUWG's Data Publication Workgroup. 
 **Contact**: [Catarina.Pien@water.ca.gov](Catarina.Pien@water.ca.gov)
+
